@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Dev Wizards | Expert Web & Backend Development Agency",
+  title: "The Devs - Expert Web & Backend Development Agency",
   description: "Challenges driven coding wizards specializing in complex backend systems, CI/CD, DevOps, AI adoption, and software architecture. We turn complex problems into elegant solutions with 100% customer satisfaction.",
   keywords: [
     "backend development",
@@ -18,9 +18,9 @@ export const metadata: Metadata = {
     "consulting",
     "workshops",
   ],
-  authors: [{ name: "Dev Wizards" }],
-  creator: "Dev Wizards",
-  publisher: "Dev Wizards",
+  authors: [{ name: "The Devs" }],
+  creator: "The Devs",
+  publisher: "The Devs",
   robots: {
     index: true,
     follow: true,
@@ -32,13 +32,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    title: "Dev Wizards | Expert Web & Backend Development Agency",
+    title: "The Devs - Expert Web & Backend Development Agency",
     description: "Challenges driven coding wizards. We turn complex problems into elegant solutions.",
-    siteName: "Dev Wizards",
+    siteName: "The Devs",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dev Wizards | Expert Web & Backend Development Agency",
+    title: "The Devs - Expert Web & Backend Development Agency",
     description: "Challenges driven coding wizards. We turn complex problems into elegant solutions.",
   },
 };
